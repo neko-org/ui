@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": false,
+    "name": "ui",
+    "author": "Pinkie Pie",
+    "version": "30.05.2019",
+    "description": "UI Mod by Pinkie used by Neko Journal",
+    "servers": ["https://raw.githubusercontent.com/PatrickSantoZZ/ui/master/"]
+}
